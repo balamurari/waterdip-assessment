@@ -1,4 +1,10 @@
+Screenshots of the assessment:
+
+Dashboard of the main page: 
 ![image](https://github.com/user-attachments/assets/0e99d11f-1cbd-47fd-9402-46c5af7a1e42)
+
+visitors across the world:
+![image](https://github.com/user-attachments/assets/94b3c73f-48f7-4b5a-a492-c9a35390fb7e)
 
 # Getting Started with Create React App
 
